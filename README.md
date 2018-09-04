@@ -1,1 +1,1 @@
-# LINEBOTのimagemap 各種サイズ
+gifをランダムで送信するための素材

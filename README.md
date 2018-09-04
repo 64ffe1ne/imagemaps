@@ -1,1 +1,1 @@
-# imagemaps
+# LINEBOTのimagemap 各種サイズ
